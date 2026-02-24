@@ -1,0 +1,5 @@
+1) change the name of practicle to "McCulloc-Pitts" from "Perceptron" in exp 1
+2) mearge the AND & OR practicle into 1
+3) Implement hebbain learnign rule
+
+4) SET THE PRACTICLE ACCORDINGT TO FILE ON THE WHATSAPP GROUP
